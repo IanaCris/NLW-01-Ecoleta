@@ -13,8 +13,8 @@
 
 ## Tecnologias
 
-- [Node.js][nodejs]
-- [TypeScript][typescript]
-- [React][reactjs]
-- [React Native][rn]
-- [Expo][expo]
+- [Node.js]
+- [TypeScript]
+- [React]
+- [React Native]
+- [Expo]
